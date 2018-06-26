@@ -183,6 +183,7 @@ exec xbacklight -set 30
 exec nitrogen --set-auto ~/Pictures/Wallpapers/wall1.jpg
 exec compton
 exec nm-applet
+exec autocutsel
 
 bindsym $mod+shift+x exec i3lock 
 
