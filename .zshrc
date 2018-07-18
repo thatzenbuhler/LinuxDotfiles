@@ -19,4 +19,6 @@ prompt redhat
 alias ll='ls -al'
 alias sdn='sudo shutdown now'
 
+bindkey -v # Vi mode
+
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
