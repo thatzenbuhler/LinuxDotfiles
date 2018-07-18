@@ -1,6 +1,12 @@
 " Tyler Hatzenbuhler's .vimrc on thinkpad/void
 " 6/23/18
 
+"Pathogen infect
+execute pathogen#infect()
+
+"NerdTree
+map <C-n> :NERDTreeToggle<CR>
+
 "Colors
 "colorscheme themename
 syntax enable
