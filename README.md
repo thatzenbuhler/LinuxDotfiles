@@ -6,7 +6,7 @@ This repository contains the relevant configuration files for my persnal Linux a
 + Arch Linux (Distribution) (New from Void)
 + i3 (i3-gaps)
 + urxvt
-+ vim
++ vim + NERDTree / Pathogen
 + zsh 
 + ranger
 + neofetch
@@ -16,6 +16,7 @@ This repository contains the relevant configuration files for my persnal Linux a
 + acpi (For battery info)
 + polybar
 + Hack console font
++ tmux
 + more I forgot
 
 ### Inspiration
