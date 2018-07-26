@@ -38,7 +38,7 @@
 URxvt.font:	 	xft:hack:size=10
 URxvt.letterSpace:	-1
 URxvt.intensityStyles:	false
-URxvt.background:	[90]#000000
+URxvt.background:	[100]#000000
 URxvt.depth: 		32
 URxvt.scrollBar:	false
 URxvt.cursorColor:	white
