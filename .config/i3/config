@@ -192,6 +192,6 @@ exec_always --no-startup-id nm-applet
 exec_always --no-startup-id xrandr --output LVDS1 --mode 1366x768
 
 gaps inner 6
-gaps outer 6
+gaps outer 3
 for_window [class="^.*"] border pixel 0
 smart_gaps on
