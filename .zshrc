@@ -14,7 +14,7 @@ compinit
 
 autoload -Uz promptinit
 promptinit
-prompt redhat
+prompt walters
 
 alias ll='ls -al'
 alias sdn='sudo shutdown now'

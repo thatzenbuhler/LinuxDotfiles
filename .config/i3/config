@@ -186,10 +186,11 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5
 exec xbacklight -set 20
 
-exec_always --no-startup-id feh --bg-scale /home/tyler/Pictures/Wallpapers/wall1.jpg
+exec_always --no-startup-id feh --bg-fill /home/tyler/Pictures/Wallpapers/wall2.jpg
 exec_always --no-startup-id compton
 exec_always --no-startup-id nm-applet
 exec_always --no-startup-id xrandr --output LVDS1 --mode 1366x768
+exec_always --no-startup-id xrandr -o normal
 
 gaps inner 6
 gaps outer 3
